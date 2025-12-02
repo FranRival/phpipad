@@ -28,6 +28,8 @@ $title = "Mi Página PHP Simple";
     <p>¡Hola! Esta es una página PHP muy simple.</p>
     <p>Una prueba de ipad</p>
 
+    <p>cambios no reflejados</p>
+
     <?php
     // Ejemplo de lógica PHP
     $hora = date("H");
