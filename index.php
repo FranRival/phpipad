@@ -26,6 +26,7 @@ $title = "Mi Página PHP Simple";
 
 <main>
     <p>¡Hola! Esta es una página PHP muy simple.</p>
+    <p>Una prueba de ipad</p>
 
     <?php
     // Ejemplo de lógica PHP
